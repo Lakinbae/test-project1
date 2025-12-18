@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head>
+    <title>Lakin's Code</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Lakin's Code</h1>
+    <p id="g">Hey, I am <strong>Lakin Awel.</strong></p>
+    <p class="name">I am a student in <em>AASTU.</em> I am a Freshman Engineering student.<br> I love learning new things.</p>
+    <p>Such as:</p>
+    <ul>
+        <li class="ex">Watching movies</li>
+        <li class="f">Coding</li>
+        <li class="ex">Reading books</li>
+        <li class="f">Reciting the Quran</li>
+    </ul>
+    <p class="k">Places I would love to visit:</p>
+    <ul>
+        <li>Beautiful beaches</li>
+    </ul>
+    <img class="pic" src="https://mimo.app/r/beach.png" alt="Beautiful beach">
+    <p class="k">My favorite animal:</p>
+    <ul>
+        <li>Cats</li>
+    </ul>
+    <img class="pic" src="https://mimo.app/r/cat.png" alt="Cat">
+    <button id="hi">Subscribed</button>
+    <button id="hey">Not subscribed</button>
+    <img class="img" src="https://mimo.app/r/trees.png" alt="Trees">
+    <img class="img" src="https://mimo.app/r/leaf.png" alt="Leaf">
+    <script src="script.js"></script>
+</body>
+</html>
